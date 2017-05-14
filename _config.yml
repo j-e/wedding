@@ -30,3 +30,4 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - bootstrap-3.3.7/docs/*
