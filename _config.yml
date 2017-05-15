@@ -31,3 +31,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - bootstrap/docs/*
+  - minima.md

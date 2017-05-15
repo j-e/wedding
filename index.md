@@ -1,6 +1,7 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: cover
+title: Allison Keves + Jonathan Ellis
+headline: Allison + Jonathan
 ---
+
+December 9th, 2017 &bull; Jersey City, New Jersey &bull; #WeddyForThisJelly
