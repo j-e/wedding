@@ -6,7 +6,20 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
+  <!-- Bootstrap includes -->
+  <link rel="stylesheet" href="{{ "/bootstrap/dist/css/bootstrap.min.css" | relative_url }}">
+  <!--link rel="stylesheet" href="{{ "/bootstrap/docs/assets/css/ie10-viewport-bug-workaround.css" | relative_url }}">
+  <script src="../bootstrap/docs/assets/js/ie-emulation-modes-warning.js"></script-->
+  <!-- end Bootstrap -->
+
+  <!-- main.css has been modified to import "bootstrap" instead of "minima" -->
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+
+  <!-- http://stackoverflow.com/questions/14113559/how-to-tune-layout-for-a-particular-page-post-in-jekyll -->
+  <!--{% for css_name in page.extra_css %}
+      <link rel="stylesheet" href="{{ css_name | relative_url }}">
+  {% endfor %}-->
+
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
   
