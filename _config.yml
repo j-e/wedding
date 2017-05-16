@@ -36,4 +36,4 @@ exclude:
   - about.md
   - test.md
   - wedding.html
-  - *README.md
+  - bootstrap/README.md
