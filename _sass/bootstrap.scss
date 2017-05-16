@@ -6,6 +6,7 @@ $brand-color:       #002a6e;
 $brand-font-family:	"Abril Fatface", serif;
 $base-font-family:	"Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
-@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Raleway:300');
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Raleway:300,600');
 
+@import "bootstrap-sass/default";
 @import "bootstrap-sass/cover";

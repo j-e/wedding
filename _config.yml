@@ -14,12 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Allison Keves + Jonathan Ellis
+short_title: Allison + Jonathan
 email: teamjelly@weddyforthisjelly.com
 description: > # this means to ignore newlines until "baseurl:"
  Allison Keves & Jonathan Ellis’s wedding website, including registry and hotel information.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://www.weddyforthisjelly.com # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
+twitter_username:
 github_username:  j-e
 
 # Build settings
@@ -32,3 +33,6 @@ exclude:
   - Gemfile.lock
   - bootstrap/docs/*
   - minima.md
+  - about.md
+  - test.md
+  - wedding.html

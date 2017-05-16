@@ -125,6 +125,17 @@
     font-family: $brand-font-family;
   }
 
+  .jelly-sections {
+    margin-top: 50px;
+  }
+
+  .jelly-sections a {
+    color: $brand-color;
+    font-family: $brand-font-family;
+    font-size: 16px * 2;
+    margin: 0 1em 0 1em;
+  }
+
 
   /*
    * Footer
