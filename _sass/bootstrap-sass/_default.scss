@@ -1,0 +1,70 @@
+html {
+  background-color: #f7d6cd;
+  background: linear-gradient(to bottom, #f7d6cd 0%, #ffffff 100%);
+  background-attachment: fixed;
+  min-height: 100%;
+}
+
+.bootstrap-default { /* namespace only for the default template, see <html> class in default.html */
+
+  body {
+    background-color: transparent;
+    padding-top: 50px;
+  }
+
+  .default {
+    padding: 40px 15px;
+    //text-align: center;
+  }
+
+  h1 {
+    color: $brand-color;
+    font-family: $brand-font-family;
+  }
+
+  p {
+    color: #5d637c;
+    font-family: $base-font-family;
+  }
+
+  .navbar {
+
+    background-color: transparent;
+    border-color: $brand-color;
+
+    a {
+      color: $brand-color;
+    }
+
+    a:hover {
+      background-color: $brand-color;
+      color: white;
+    }
+
+    .active {
+      font-weight: 600;
+    }
+
+    .navbar-brand {
+      font-family: $brand-font-family;
+    }
+
+    .navbar-nav {
+      font-family: $base-font-family;
+    }
+
+  }
+
+  @media (min-width: 768px) {
+
+    h1 {
+      font-size: 36px * 1.5;
+    }
+
+    p {
+      font-size: 14px * 1.5;
+    }
+
+  }
+
+}
