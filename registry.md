@@ -4,4 +4,4 @@ title: Registry
 permalink: /registry/
 ---
 
-This is a test.
+Coming soon.

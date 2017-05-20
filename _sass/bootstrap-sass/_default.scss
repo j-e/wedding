@@ -15,6 +15,7 @@ html {
   .default {
     padding: 40px 15px;
     //text-align: center;
+    text-shadow: 0 1px 3px rgba(255,255,255,.625);
   }
 
   h1 {
@@ -35,6 +36,16 @@ html {
     color: $text-color;
     font-family: $base-font-family;
     font-weight: 300;
+  }
+
+  .container-content {
+
+    a {
+      color: $link-color;
+      border-bottom: 1px dotted $link-color;
+      text-decoration: none;
+    }
+
   }
 
   .navbar {

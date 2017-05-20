@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}" class="bootstrap-cover" style="height: 100%;">
 
+{% assign default_paths = site.pages | map: "path" %}
+{% assign page_paths = site.header_pages | default: default_paths %}
+
   {% include head.html %}
 
   <body>
@@ -31,7 +34,16 @@
             <p class="lead visible-xs-block">December 9th, 2017 <br /> Jersey City, New Jersey <br /> #WeddyForThisJelly</p>
             <div class="lead jelly-sections">
               <!--a href="#" class="btn btn-lg btn-default">Learn more</a-->
-              <a href="/hotel">Hotel + Travel</a> <a href="/registry">Registry</a>
+              {% if page_paths %}
+                {% for path in page_paths %}
+                  {% assign my_page = site.pages | where: "path", path | first %}
+                  {% if my_page.title %}
+                    {% if my_page.url != "/" %}
+                      <a href="{{ my_page.url | relative_url }}" style="display: block">{{ my_page.title | escape }}</a>
+                    {% endif %}
+                  {% endif %}
+                {% endfor %}
+              {% endif %}
             </div>
           </div>
 
