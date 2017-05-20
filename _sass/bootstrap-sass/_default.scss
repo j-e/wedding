@@ -20,11 +20,19 @@ html {
   h1 {
     color: $brand-color;
     font-family: $brand-font-family;
+    text-align: center;
+  }
+
+  h2 {
+    color: $text-color;
+    font-family: $base-font-family;
+    font-weight: 600;
   }
 
   p {
-    color: #5d637c;
+    color: $text-color;
     font-family: $base-font-family;
+    font-weight: 300;
   }
 
   .navbar {
