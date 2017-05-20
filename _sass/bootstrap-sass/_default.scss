@@ -13,7 +13,7 @@ html {
   }
 
   .default {
-    padding: 40px 15px;
+    padding: 20px 15px;
     //text-align: center;
     text-shadow: 0 1px 3px rgba(255,255,255,.625);
   }
@@ -91,16 +91,28 @@ html {
       max-width: 730px;
     }
 
-    h1 {
-      font-size: 36px * 1.5;
+    h1,
+    .h1,
+    h2,
+    .h2,
+    h3,
+    .h3 {
+      margin-top: 40px;
+      margin-bottom: 20px;
     }
 
-    h2 {
+    h1, .h1 {
+      font-size: 36px * 1.5;
+      margin-bottom: 40px;
+    }
+
+    h2, .h2 {
       font-size: 18px * 1.5;
     }
 
     p {
       font-size: 14px * 1.5;
+      margin-bottom: 20px;
     }
 
   }
