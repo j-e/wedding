@@ -74,6 +74,15 @@ html {
       font-family: $base-font-family;
     }
 
+    .navbar-toggle {
+      //border-color: $brand-color;
+
+      .icon-bar {
+        background-color: $brand-color;
+      }
+
+    }
+
   }
 
   @media (min-width: 768px) {
