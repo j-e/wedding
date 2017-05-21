@@ -22,6 +22,7 @@ html {
     color: $brand-color;
     font-family: $brand-font-family;
     text-align: center;
+    text-shadow: 0px 1px 3px rgba(0,0,0,.25);
   }
 
   h2 {
@@ -49,6 +50,8 @@ html {
   }
 
   .navbar {
+    box-shadow: 0 1px 3px 1px rgba(0,0,0,.625);
+    border-bottom: none;
 
     .container-navbar-brand {
       background-color: $brand-color;
@@ -57,6 +60,7 @@ html {
       a {
         color: $background-color;
         font-family: $logo-font-family;
+        text-shadow: 0px 1px 1px rgba(0,0,0,.5);
       }
 
       a:hover {
@@ -138,6 +142,7 @@ html {
     }
 
     .navbar {
+      box-shadow: none;
 
       .container-navbar-brand {
         background-color: $background-color;
@@ -159,9 +164,13 @@ html {
           height: auto;
           line-height: 1.1;
           color: $brand-color;
-          text-shadow: 2px 2px 6px rgba(255,255,255,1);
+          text-shadow: 0px 1px 1px rgba(0,0,0,.5);
         }
 
+      }
+
+      .container-navbar-nav {
+        box-shadow: 0 1px 3px 1px rgba(0,0,0,.625);
       }
 
       .navbar-nav {
