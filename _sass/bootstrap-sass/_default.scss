@@ -9,7 +9,7 @@ html {
 
   body {
     background-color: transparent;
-    padding-top: 150px; // added 100px for new header
+    padding-top: 50px;
   }
 
   .default {
@@ -51,17 +51,16 @@ html {
   .navbar {
 
     .container-navbar-brand {
-      background-color: $background-color;
-      border-color: $background-color;
+      background-color: $brand-color;
+      border-color: $brand-color;
 
       a {
-        color: $brand-color;
+        color: $background-color;
         font-family: $logo-font-family;
-        text-shadow: 2px 2px 6px rgba(255,255,255,1);
       }
 
       a:hover {
-        color: $brand-color;
+        //color: $brand-color;
       }
 
     }
@@ -92,16 +91,21 @@ html {
     }
 
     .navbar-nav {
-      display: flex;
+      /* display: flex;
       flex-direction: row;
       justify-content: center;
       align-items: center;
       flex-wrap: wrap;
-      align-content: center;
+      align-content: center; */
     }
 
     .navbar-nav {
       float: none;
+    }
+
+    .navbar-collapse {
+      border-top: none;
+      box-shadow: none;
     }
 
     .navbar-brand {
@@ -116,7 +120,7 @@ html {
       //border-color: $brand-color;
 
       .icon-bar {
-        background-color: $brand-color;
+        background-color: $background-color;
       }
 
     }
@@ -125,14 +129,42 @@ html {
 
   @media (min-width: 768px) {
 
+    body {
+      padding-top: 150px; // added 100px for new header
+    }
+
     .container-content {
       max-width: 730px;
     }
 
-    .container-navbar-brand {
+    .navbar {
 
-      .navbar-header {
-        float: none;
+      .container-navbar-brand {
+        background-color: $background-color;
+        border-color: $background-color;
+
+        .navbar-header {
+          float: none;
+          display: flex;
+          flex-direction: row;
+          justify-content: center;
+          align-items: center;
+          flex-wrap: wrap;
+          align-content: center;
+        }
+
+        a.navbar-brand {
+          float: none;
+          font-size: 54px;
+          height: auto;
+          line-height: 1.1;
+          color: $brand-color;
+          text-shadow: 2px 2px 6px rgba(255,255,255,1);
+        }
+
+      }
+
+      .navbar-nav {
         display: flex;
         flex-direction: row;
         justify-content: center;
@@ -141,18 +173,11 @@ html {
         align-content: center;
       }
 
-      a.navbar-brand {
-        float: none;
-        font-size: 54px;
-        height: auto;
-        line-height: 1.1;
+      .navbar-nav a {
+        padding-top: 15px * 1.5;
+        padding-bottom: 15px * 1.5;
       }
 
-    }
-
-    .navbar-nav a {
-      padding-top: 15px * 1.5;
-      padding-bottom: 15px * 1.5;
     }
 
     h1,
