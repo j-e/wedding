@@ -9,7 +9,7 @@ html {
 
   body {
     background-color: transparent;
-    padding-top: 50px;
+    padding-top: 150px; // added 100px for new header
   }
 
   .default {
@@ -50,20 +50,58 @@ html {
 
   .navbar {
 
-    background-color: transparent;
-    border-color: $brand-color;
+    .container-navbar-brand {
+      background-color: $background-color;
+      border-color: $background-color;
 
-    a {
-      color: $brand-color;
+      a {
+        color: $brand-color;
+        font-family: $logo-font-family;
+        text-shadow: 2px 2px 6px rgba(255,255,255,1);
+      }
+
+      a:hover {
+        color: $brand-color;
+      }
+
     }
 
-    a:hover {
+    .container-navbar-nav {
       background-color: $brand-color;
-      color: white;
+      border-color: $brand-color;
+
+      a {
+        color: $background-color;
+        font-weight: 600;
+        text-transform: uppercase;
+      }
+
+      a:hover {
+        background-color: $brand-color;
+        color: white;
+      }
+
     }
 
-    .active {
-      font-weight: 600;
+    .active a {
+
+    }
+
+    #navbar {
+      width: 100%;
+    }
+
+    .navbar-nav {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      align-content: center;
+    }
+
+    .navbar-nav {
+      float: none;
     }
 
     .navbar-brand {
@@ -91,6 +129,32 @@ html {
       max-width: 730px;
     }
 
+    .container-navbar-brand {
+
+      .navbar-header {
+        float: none;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        align-content: center;
+      }
+
+      a.navbar-brand {
+        float: none;
+        font-size: 54px;
+        height: auto;
+        line-height: 1.1;
+      }
+
+    }
+
+    .navbar-nav a {
+      padding-top: 15px * 1.5;
+      padding-bottom: 15px * 1.5;
+    }
+
     h1,
     .h1,
     h2,
@@ -102,7 +166,7 @@ html {
     }
 
     h1, .h1 {
-      font-size: 36px * 1.5;
+      font-size: 30px * 1.5;
       margin-bottom: 40px;
     }
 
