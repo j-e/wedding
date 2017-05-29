@@ -4,8 +4,9 @@ title: The Wedding Weekend
 permalink: /wedding/
 ---
 
+![Battello](/images/battello.jpg){:.img-responsive}
+
 ## Ceremony + Reception
-{:.text-center}
 Saturday, December 9th, 2017\\
 Five o’clock in the evening\\
 Battello\\
@@ -13,6 +14,8 @@ Battello\\
 Dinner and Dancing to Follow
 {:.text-center}
 
-![Battello](/images/battello.jpg){:.img-responsive}
+<small>The attire for the wedding is Black Tie Optional. We love getting dressed up for weddings, and know some of you do too! Just be sure to wear or bring comfortable shoes, because there will be a lot of dancing.</small>
 
-More weekend details to follow.
+## For Our Hotel Guests
+
+<small>There will be a welcome reception on Friday night and a brunch on Sunday morning for wedding guests staying at the hotel. Details to follow.</small>
