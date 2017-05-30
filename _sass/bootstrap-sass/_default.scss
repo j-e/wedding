@@ -33,7 +33,7 @@ html {
     text-align: center;
   }
 
-  p {
+  p, li {
     color: $text-color;
     font-family: $base-font-family;
     font-weight: 300;
@@ -45,6 +45,15 @@ html {
       color: $link-color;
       border-bottom: 1px dotted $link-color;
       text-decoration: none;
+    }
+
+    .content-registry-logo {
+      border: none;
+
+      img {
+        margin: 20px 0;
+      }
+
     }
 
   }
@@ -215,6 +224,14 @@ html {
     p {
       font-size: 14px * 1.5;
       margin-bottom: 20px;
+    }
+
+    .container-content {
+
+      li {
+        font-size: 14px * 1.5 * .85; // <small> = 85%
+      }
+
     }
 
   }

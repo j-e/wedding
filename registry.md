@@ -6,11 +6,13 @@ permalink: /registry/
 
 We are so thankful to our family and friends for supporting us as we take this next big step. Your presence is the best gift of all!
 
-We are also registered at the following locations: 
+We are also registered at the following locations:
 
-Macys: https://www.macys.com/wgl/registry/guest/6759222
+<a href="https://www.macys.com/wgl/registry/guest/6759222" class="content-registry-logo"><img src="/images/macys.png" width="237.5"></a>
+{:.text-center}
 
-Bed, Bath and Beyond: https://www.bedbathandbeyond.com/store/giftregistry/view_registry_guest.jsp?pwsToken=&eventType=Wedding&inventoryCallEnabled=true&registryId=543850075&pwsurl=
+<a href="https://www.bedbathandbeyond.com/store/giftregistry/view_registry_guest.jsp?pwsToken=&eventType=Wedding&inventoryCallEnabled=true&registryId=543850075&pwsurl=" class="content-registry-logo"><img src="/images/bbb.png" width="237.5"></a>
+{:.text-center}
 
-Zola:
-https://www.zola.com/registry/weddyforthisjelly
+<a href="https://www.zola.com/registry/weddyforthisjelly" class="content-registry-logo"><img src="/images/zola.png" width="237.5"></a>
+{:.text-center}
