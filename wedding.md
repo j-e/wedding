@@ -2,6 +2,7 @@
 layout: page
 title: The Wedding Weekend
 permalink: /wedding/
+page_order: 1
 ---
 
 ![Battello](/images/battello.jpg){:.img-responsive .img-thumbnail}

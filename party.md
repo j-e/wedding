@@ -64,7 +64,7 @@ Tony and Jonathan were randomly assigned to the same freshman unit in college, a
 ### Groomsman, Friend of the Groom
 Frank and Jonathan bonded freshman year over the fact that John Williams composed the theme to “NBC Nightly News.” Breaking News: The rest is history.
 
-## Matt Keves
+## Matthew Keves
 <img src="/images/matt.png" alt="Matt" class="img-responsive img-thumbnail content-img-small center-block" />
 ### Groomsman, Future Brother-in-Law of the Groom
 The first time Jonathan met Matt was when they sat in a car together for four hours on the way to play Bingo in Connecticut. After a tiny fender bender, Matt scared the other guy off after the guy tried to scam him into paying cash for an accident that the other guy intentionally caused. Jonathan knew this relationship would work. Also, Jonathan officiated Matt and Laura’s wedding!
