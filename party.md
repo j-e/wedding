@@ -67,8 +67,9 @@ Frank and Jonathan bonded freshman year over the fact that John Williams compose
 ## Matt
 <img src="/images/matt.png" alt="Matt" class="img-responsive img-thumbnail content-img-small center-block" />
 ### Groomsman, Future Brother-in-Law of the Groom
-The first time Jonathan met Matt was when they sat in a car together for four hours on the way to play Bingo in Connecticut. After a tiny fender bender, Matt scared the other guy off after the guy tried to scam him into paying cash for an accident that the other guy intentionally caused. Jonathan knew this relationship would work.
+The first time Jonathan met Matt was when they sat in a car together for four hours on the way to play Bingo in Connecticut. After a tiny fender bender, Matt scared the other guy off after the guy tried to scam him into paying cash for an accident that the other guy intentionally caused. Jonathan knew this relationship would work. Also, Jonathan officiated Matt and Laura’s wedding!
 
 ## Matzah
+<img src="/images/matzah.png" alt="Matzah" class="img-responsive img-thumbnail content-img-small center-block" />
 ### Honorary Groomsman, Dog of the Bride and Groom
 Aly tried to convince Jonathan to adopt a dog for months, but Jonathan kept saying no, he didn’t know how to take care of a dog. After showing him hundreds of dogs on Petfinder.com, Aly showed Jonathan Matzah, and Jonathan said, “This is a good Jewish dog who needs a good Jewish home.” Matzah is far more curmudgeonly than we ever could have imagined, and is, in fact, a Jewish old man. We could not love him more.
