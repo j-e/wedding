@@ -4,7 +4,7 @@ title: The Wedding Weekend
 permalink: /wedding/
 ---
 
-![Battello](/images/battello.jpg){:.img-responsive}
+![Battello](/images/battello.jpg){:.img-responsive .img-thumbnail}
 
 ## Ceremony + Reception
 Saturday, December 9th, 2017\\
