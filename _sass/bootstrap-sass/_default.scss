@@ -21,6 +21,7 @@ html {
   h1, .h1 {
     color: $brand-color;
     font-family: $brand-font-family;
+    font-size: 29px; // to fit "The Wedding Weekend"
     text-align: center;
     text-shadow: 0px 1px 3px rgba(0,0,0,.25);
   }

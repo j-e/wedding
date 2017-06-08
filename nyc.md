@@ -2,6 +2,7 @@
 layout: page
 title: Around NYC
 permalink: /nyc/
+page_order: 3
 ---
 
 The weather may be chilly, but it will be the holiday season in New York, which means there will be plenty to do!

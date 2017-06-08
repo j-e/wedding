@@ -2,6 +2,7 @@
 layout: page
 title: Registry
 permalink: /registry/
+page_order: 5
 ---
 
 We are so thankful to our family and friends for supporting us as we take this next big step. Your presence is the best gift of all!

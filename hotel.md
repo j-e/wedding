@@ -2,6 +2,7 @@
 layout: page
 title: Hotel + Travel
 permalink: /hotel/
+page_order: 2
 ---
 
 ## Where to Stay

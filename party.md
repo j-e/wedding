@@ -2,6 +2,7 @@
 layout: page
 title: The Wedding Party
 permalink: /party/
+page_order: 4
 ---
 
 ## Jamie Statter
