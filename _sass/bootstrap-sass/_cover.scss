@@ -132,7 +132,7 @@
   .jelly-sections a {
     color: $brand-color;
     font-family: $brand-font-family;
-    font-size: 16px * 1.75;
+    font-size: 24px;
     margin: 0 1em 0 1em;
   }
 
@@ -181,6 +181,11 @@
     .cover-heading {
       font-size: 36px * 2;
     }
+
+    .jelly-sections a {
+      font-size: 16px * 1.75;
+    }
+
   }
 
   @media (min-width: 992px) {
