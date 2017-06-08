@@ -36,6 +36,12 @@
     font-family: $base-font-family;
     text-align: center;
     text-shadow: 0 1px 3px rgba(255,255,255,.625);
+
+    background: url(/images/background.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    background-position: 5%;
   }
 
   /* Extra markup and styles for table-esque vertical and horizontal centering */
