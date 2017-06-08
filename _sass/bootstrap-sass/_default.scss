@@ -17,8 +17,6 @@ html {
     -o-background-size: cover;
     background-size: cover;
     background-position: 5%;
-
-    min-height: 100%;
   }
 
   .default {
@@ -163,6 +161,7 @@ html {
 
     body {
       padding-top: 150px; // added 100px for new header
+      min-height: 100%;
     }
 
     .container-content {
