@@ -5,6 +5,10 @@ permalink: /hotel/
 page_order: 2
 ---
 
+<!-- AIzaSyDuow0QXIlBlYPIim7PUf8T4Jt7hzC5U3w -->
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m34!1m12!1m3!1d1511.8207189668453!2d-74.03538154187112!3d40.725909227517306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m19!3e2!4m5!1s0x89c257543ae5b857%3A0xb16d1f453513c706!2sNewport+Station%2C+Jersey+City%2C+NJ!3m2!1d40.72699!2d-74.03383!4m5!1s0x89c25755aeb0b28b%3A0xfed2e60c29eec87d!2sBattello%2C+Washington+Boulevard%2C+Jersey+City%2C+NJ!3m2!1d40.7253475!2d-74.0322764!4m5!1s0x89c2575363ccf56b%3A0xc327eb299465b2a0!2sThe+Westin+Jersey+City+Newport%2C+Washington+Boulevard%2C+Jersey+City%2C+NJ!3m2!1d40.724852999999996!2d-74.036298!5e0!3m2!1sen!2sus!4v1497149114684" class="img-responsive img-thumbnail center-block" width="100%" height="450" frameborder="0" style="height: 450px !important" allowfullscreen></iframe>
+
 ## Where to Stay
 
 We have reserved a block of rooms at the [Westin Jersey City Newport](https://www.starwoodmeeting.com/Book/KevesandEllis). Please book your rooms prior to November 8th, 2017, to ensure that you get the group rate.
