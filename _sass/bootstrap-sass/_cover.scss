@@ -135,15 +135,30 @@
     margin-top: 50px;
   }
 
-  .jelly-sections a {
-    color: $brand-color;
-    font-family: $brand-font-family;
-    font-size: 24px;
-    margin: 0 1em 0 1em;
-    text-shadow: 0px 1px 3px rgba(0,0,0,.25);
+  .jelly-sections > div {
+    padding: 6px 0;
   }
 
-  .jelly-sections a:hover {
+  .jelly-sections a {
+    border-top: 1px solid transparent;
+    border-bottom: 1px solid transparent;
+    color: $brand-color;
+    font-family: $base-font-family;
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0 1em 0 1em;
+    padding: 11px 2.5em;
+    text-shadow: 0px 1px 3px rgba(0,0,0,.25);
+    text-transform: uppercase;
+  }
+
+  .jelly-sections a:hover,
+  .jelly-section a:active {
+    background-color: $brand-color;
+
+    background: linear-gradient(to right, rgba(247,214,205,.25), rgba(0,42,110, .825) 12.5%, rgba(0,42,110, .825) 87.5%, rgba(247,214,205,.25));
+    border-image: linear-gradient(to right, rgba(247,214,205,0), rgba(0,42,110, .825) 20%, rgba(0,42,110, .825) 80%, rgba(247,214,205,0));
+    border-image-slice: 1;
     color: white;
     text-decoration: none;
     text-shadow: 0px 1px 3px rgba(0,0,0,1);
@@ -204,7 +219,7 @@
     }
 
     .jelly-sections a {
-      font-size: 16px * 1.75;
+      font-size: 14px * 1.5;
     }
 
   }
