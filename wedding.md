@@ -5,17 +5,21 @@ permalink: /wedding/
 page_order: 1
 ---
 
-![Battello](/images/battello.jpg){:.img-responsive .img-thumbnail}
+![The Lighthouse](/images/lighthouse.jpg){:.img-responsive .img-thumbnail}
 
 ## Ceremony + Reception
 Saturday, December 9th, 2017\\
-Five o’clock in the evening\\
-Battello\\
-502 Washington Blvd., Jersey City, NJ 07310\\
+Six o’clock in the evening\\
+The Lighthouse\\
+Pier 61, Chelsea Piers\\
+23rd Street and West Side Highway\\
+New York, NY 10011\\
 Dinner and Dancing to Follow
 {:.text-center}
 
 <small>The attire for the wedding is Black Tie Optional. We love getting dressed up for weddings, and know some of you do too! Just be sure to wear or bring comfortable shoes, because there will be a lot of dancing.</small>
+
+<small>Were you expecting the wedding venue to be in New Jersey? So were we! The previous venue suddenly closed, so now we’re celebrating across the Hudson in Manhattan. Transportation will be provided to and from the hotel.</small>
 
 ## For Our Hotel Guests
 

@@ -7,7 +7,7 @@ page_order: 3
 
 ![New York City](/images/nyc.jpg){:.img-responsive .img-thumbnail}
 
-The weather may be chilly, but it will be the holiday season in New York, which means there will be plenty to do!
+The weather may be chilly, but it will be the holiday season in New York, which means there will be plenty to do! You can get to Manhattan in minutes on the Path train --- the station is across the street from the hotel.
 
 Here are a few of our suggestions:
 

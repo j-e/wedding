@@ -11,7 +11,7 @@ Since we met four years ago at Brown University, we have had so many amazing adv
 
 ![Team Jelly](/images/jelly8.jpg){:.img-responsive .img-thumbnail}
 
-![Team Jelly](/images/jelly10.jpg){:.img-responsive .img-thumbnail}
+<!--![Team Jelly](/images/jelly10.jpg){:.img-responsive .img-thumbnail}-->
 
 ![Team Jelly](/images/jelly9.jpg){:.img-responsive .img-thumbnail}
 
