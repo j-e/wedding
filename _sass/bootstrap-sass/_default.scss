@@ -10,12 +10,6 @@ html {
   body {
     background-color: transparent;
     padding-top: 50px;
-
-    background: url(/images/background2.jpg) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    background-position: 61%;
   }
 
   .default {
@@ -161,6 +155,10 @@ html {
     body {
       padding-top: 150px; // added 100px for new header
       min-height: 100%;
+      background: url(/images/background2.jpg) no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      background-size: cover;
       background-position: right;
     }
 
