@@ -23,4 +23,4 @@ Dinner and Dancing to Follow
 
 ## For Our Hotel Guests
 
-<small>There will be a cocktail reception on Friday night and a brunch on Sunday morning for wedding guests staying at the hotel. Details to follow.</small>
+<small>There will be a cocktail reception on Friday night at 9 p.m. and a brunch on Sunday morning for wedding guests staying at the hotel. Details to follow.</small>

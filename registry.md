@@ -15,5 +15,5 @@ We are also registered at the following locations:
 <a href="https://www.bedbathandbeyond.com/store/giftregistry/view_registry_guest.jsp?pwsToken=&eventType=Wedding&inventoryCallEnabled=true&registryId=543850075&pwsurl=" class="content-registry-logo"><img src="/images/bbb.png" width="237.5"></a>
 {:.text-center}
 
-<a href="https://www.zola.com/registry/weddyforthisjelly" class="content-registry-logo"><img src="/images/zola.png" width="237.5"></a>
-{:.text-center}
+<!--<a href="https://www.zola.com/registry/weddyforthisjelly" class="content-registry-logo"><img src="/images/zola.png" width="237.5"></a>
+{:.text-center}-->
