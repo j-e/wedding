@@ -13,9 +13,10 @@ Six o’clock in the evening\\
 The Lighthouse\\
 Pier 61, Chelsea Piers\\
 23rd Street and West Side Highway\\
-New York, NY 10011\\
-Dinner and Dancing to Follow
+New York, NY 10011
 {:.text-center}
+
+<small>The ceremony will begin promptly at 6:30 p.m. Dinner and dancing will follow.</small>
 
 <small>The attire for the wedding is Black Tie Optional. We love getting dressed up for weddings, and know some of you do too! Just be sure to wear or bring comfortable shoes, because there will be a lot of dancing.</small>
 
