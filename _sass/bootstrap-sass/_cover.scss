@@ -37,11 +37,11 @@
     text-align: center;
     text-shadow: 0 1px 3px rgba(255,255,255,.625);
 
-    //background: url(/images/background.jpg) no-repeat center center fixed;
+    background: url(/images/background2.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
-    background-position: 5%;
+    background-position: 61%;
   }
 
   /* Extra markup and styles for table-esque vertical and horizontal centering */
@@ -187,6 +187,11 @@
    */
 
   @media (min-width: 768px) {
+
+    body {
+      background-position: right;
+    }
+
     /* Pull out the header and footer */
     .masthead {
       position: fixed;
