@@ -18,9 +18,11 @@ New York, NY 10011
 
 <small>The ceremony will begin promptly at 6:30 p.m. Dinner and dancing will follow.</small>
 
+<small>Were you expecting the wedding venue to be in New Jersey? So were we! The previous venue suddenly closed, so now we’re celebrating across the Hudson in Manhattan. Transportation will be provided to and from the hotel.</small>
+
 <small>The attire for the wedding is Black Tie Optional. We love getting dressed up for weddings, and know some of you do too! Just be sure to wear or bring comfortable shoes, because there will be a lot of dancing.</small>
 
-<small>Were you expecting the wedding venue to be in New Jersey? So were we! The previous venue suddenly closed, so now we’re celebrating across the Hudson in Manhattan. Transportation will be provided to and from the hotel.</small>
+<small>We cannot accommodate children at the wedding reception and ceremony, but we would love to hang out with your kids at the hotel if they travel with you.</small>
 
 ## For Our Hotel Guests
 
